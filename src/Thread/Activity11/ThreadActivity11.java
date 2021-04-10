@@ -1,4 +1,4 @@
-package Thread;
+package Thread.Activity11;
 
 public class ThreadActivity11 extends Thread {
     int STT;

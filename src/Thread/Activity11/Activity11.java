@@ -1,4 +1,4 @@
-package Thread;
+package Thread.Activity11;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,6 +14,6 @@ public class Activity11 {
         for (Thread th : threadList) {
             th.start();
         }
-        
+
     }
 }
